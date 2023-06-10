@@ -1,0 +1,173 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 480px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3rem;
+  font-weight: 700;
+  margin: 114px auto 0;
+}
+
+.u-section-1 .u-countdown-1 {
+  margin: 77px auto 60px;
+}
+
+.u-section-1 .u-countdown-item-1 {
+  background-image: none;
+  padding: 15px 20px;
+}
+
+.u-section-1 .u-countdown-counter-1 {
+  font-size: 4.5rem;
+  line-height: 1;
+  font-weight: 700;
+}
+
+.u-section-1 .u-countdown-label-1 {
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 700;
+}
+
+.u-section-1 .u-countdown-separator-1 {
+  font-size: 4.5rem;
+  line-height: 1;
+  font-weight: 700;
+}
+
+.u-section-1 .u-countdown-item-2 {
+  background-image: none;
+  padding: 15px 20px;
+}
+
+.u-section-1 .u-countdown-counter-2 {
+  font-size: 4.5rem;
+  line-height: 1;
+  font-weight: 700;
+}
+
+.u-section-1 .u-countdown-label-2 {
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 700;
+}
+
+.u-section-1 .u-countdown-separator-2 {
+  font-size: 4.5rem;
+  line-height: 1;
+  font-weight: 700;
+}
+
+.u-section-1 .u-countdown-item-3 {
+  background-image: none;
+  padding: 15px 20px;
+}
+
+.u-section-1 .u-countdown-counter-3 {
+  font-size: 4.5rem;
+  line-height: 1;
+  font-weight: 700;
+}
+
+.u-section-1 .u-countdown-label-3 {
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 700;
+}
+
+.u-section-1 .u-countdown-separator-3 {
+  font-size: 4.5rem;
+  line-height: 1;
+  font-weight: 700;
+}
+
+.u-section-1 .u-countdown-item-4 {
+  background-image: none;
+  padding: 15px 20px;
+}
+
+.u-section-1 .u-countdown-counter-4 {
+  font-size: 4.5rem;
+  line-height: 1;
+  font-weight: 700;
+}
+
+.u-section-1 .u-countdown-label-4 {
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 700;
+}
+
+.u-section-1 .u-countdown-separator-4 {
+  font-size: 4.5rem;
+  line-height: 1;
+  font-weight: 700;
+}
+
+.u-section-1 .u-countdown-item-5 {
+  background-image: none;
+  padding: 15px 20px;
+}
+
+.u-section-1 .u-countdown-counter-5 {
+  font-size: 4.5rem;
+  line-height: 1;
+  font-weight: 700;
+}
+
+.u-section-1 .u-countdown-label-5 {
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 700;
+}
+
+.u-section-1 .u-countdown-separator-5 {
+  font-size: 4.5rem;
+  line-height: 1;
+  font-weight: 700;
+}
+
+.u-section-1 .u-countdown-item-6 {
+  background-image: none;
+  padding: 15px 20px;
+}
+
+.u-section-1 .u-countdown-counter-6 {
+  font-size: 4.5rem;
+  line-height: 1;
+  font-weight: 700;
+}
+
+.u-section-1 .u-countdown-label-6 {
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 700;
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 684px;
+  }
+
+  .u-section-1 .u-countdown-1 {
+    height: 275px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+  }
+}
